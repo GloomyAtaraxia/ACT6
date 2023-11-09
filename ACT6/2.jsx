@@ -9,13 +9,13 @@ function App() {
         title="Happy Birthday!"
         message="Wishing you a fantastic day!"
         buttonText="Send"
-        imageSrc="https://via.placeholder.com/300"
+        imageSrc="PICS/HBD.jpg"
       />
       <GreetingCard
         title="Thank You!"
         message="Expressing our gratitude."
         buttonText="Share"
-        imageSrc="PICS/"
+        imageSrc="PICS/THANKS.png"
       />
     </div>
   );
