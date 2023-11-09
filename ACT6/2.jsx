@@ -15,7 +15,7 @@ function App() {
         title="Thank You!"
         message="Expressing our gratitude."
         buttonText="Share"
-        imageSrc="https://via.placeholder.com/300"
+        imageSrc="PICS/"
       />
     </div>
   );
